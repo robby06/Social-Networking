@@ -1,5 +1,5 @@
 <?php
-$dbhost = 'localhost'; // Unlikely to require changing
+$dbhost = 'root'; // Unlikely to require changing
 $dbname = 'socialmedia'; // Modify these...
 $dbuser = 'social01'; // ...variables according
 $dbpass = 'socialmedia'; // ...to your installation
